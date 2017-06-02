@@ -4,5 +4,15 @@
   "description": "Bootstrap components turned into React components with props and state",
   "main": "app.js",
   "author": "Ayoub Nejjari",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.3",
+    "path": "^0.12.7",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  },
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
 }
