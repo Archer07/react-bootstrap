@@ -1,0 +1,8 @@
+{
+  "name": "bootstrap-react",
+  "version": "1.0.0",
+  "description": "Bootstrap components turned into React components with props and state",
+  "main": "app.js",
+  "author": "Ayoub Nejjari",
+  "license": "MIT"
+}
